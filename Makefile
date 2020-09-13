@@ -7,5 +7,3 @@ helloalex.o: helloalex.c
 clean:
 	rm *.o output
 
-touch: dependencies
-	action
